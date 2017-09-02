@@ -2,8 +2,8 @@
 
 Abstract
 
-                Urban performance currently depends not only on the city’s endowment of hard infrastructure, but also on how intelligently and efficiently city’s overall management is carried out. It will help to improve superiority of life and increase involvement of citizens in the governance of cities.
-  	              Even developed cities are facing many problems like poor management of street lights, drainage, fire safety, traffic management, etc. Authorities often take measures to prevent against all these problems but they are not able to overcome all of them completely. So to get rid of all these problems, we come up with a concept of Smart City which can offer possible solutions to the above mentioned problems.
+                
+  	              Many developed cities are facing many problems like poor management of street lights, drainage, fire safety, traffic management, etc. Authorities often take measures to prevent against all these problems but they are not able to overcome all of them completely. So to get rid of all these problems, we come up with a concept of Smart City which can offer possible solutions to the above mentioned problems.
 	                Smart City refers to the city automated in various aspects. These aspects could be traffic analysis, street light control, fire detection, drainage-overflow detection, gas-leakage detection, temperature measurement etc.
                 Data Visualization involves the creation and study of visual representation of data. Its main goal is, to communicate information clearly and effectively through graphical means. We will develop the system as a platform to connect key services like traffic analysis, street light control, fire detection, drainage-overflow detection, gas-leakage detection, temperature measurement, etc. to give the graphical view of city for all these aspects to authorities.
 
