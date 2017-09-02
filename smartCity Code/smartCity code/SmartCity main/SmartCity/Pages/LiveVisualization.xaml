@@ -1,0 +1,96 @@
+﻿<Page x:Class="SmartCity.Pages.LiveVisualization"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      KeepAlive="True" 
+      d:DesignHeight="500" d:DesignWidth="700"
+	Title="LiveVisualization">
+
+    <Grid>
+        
+        <m:Map x:Name="myMap"
+            Center="21.183843,72.808218" ZoomLevel="16"
+            CredentialsProvider="Av7tjDXQcLWVTdASoYHbGpaL7kTtAjjoAs0Or0FGcNmbQYLB-87f5lt_RvZ0JKeq" Margin="0,10,0,-10" />
+
+        <Border Height="220" Background="#FF020202" Width="250" Opacity=".3" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Grid ShowGridLines="true">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Column="0" Grid.Row="0">
+                    <Label x:Name="zone1_name" Foreground="White" FontSize="22" FontWeight="ExtraBold" VerticalAlignment="Center"></Label>
+                </Grid>
+                <Grid Grid.Column="0" Grid.Row="1">
+                    <Label Content="Temperature in °C:" Foreground="White" FontSize="16" VerticalAlignment="Center"></Label>                   
+                </Grid>
+                <Grid Grid.Column="0" Grid.Row="2">
+                    <Label Content="Pressure in Hg:" Foreground="White" FontSize="16" VerticalAlignment="Center"></Label>
+
+                </Grid>
+                <Grid Grid.Column="0" Grid.Row="3">
+                    <Label Content="Humidity in gm/m3:" Foreground="White" FontSize="16" VerticalAlignment="Center"></Label>
+                </Grid>
+                <Grid Grid.Column="1" Grid.Row="1">
+                    <Label x:Name="lbl_temp" Content="00" Foreground="White" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                </Grid>
+                <Grid Grid.Column="1" Grid.Row="2">
+                    <Label x:Name="lbl_pressure" Content="00" Foreground="White" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                </Grid>
+                <Grid Grid.Column="1" Grid.Row="3">
+                    <Label x:Name="lbl_humidity" Content="00" Foreground="White" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                </Grid>
+
+            </Grid>
+        </Border>
+        
+        
+        <!--zone 2-->
+        <Border Height="220" Background="#FF020202" Width="250" Opacity=".3" VerticalAlignment="Bottom" HorizontalAlignment="Left">
+            <Grid ShowGridLines="true">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Column="0" Grid.Row="0">
+                    <Label Content="Adajan Zone" Foreground="White" FontSize="22" FontWeight="ExtraBold" VerticalAlignment="Center"></Label>
+                </Grid>
+                <Grid Grid.Column="0" Grid.Row="1">
+                    <Label Content="Temperature in °C:" Foreground="White" FontSize="16" VerticalAlignment="Center"></Label>
+                </Grid>
+                <Grid Grid.Column="0" Grid.Row="2">
+                    <Label Content="Pressure in Hg:" Foreground="White" FontSize="16" VerticalAlignment="Center"></Label>
+
+                </Grid>
+                <Grid Grid.Column="0" Grid.Row="3">
+                    <Label Content="Humidity in gm/m3:" Foreground="White" FontSize="16" VerticalAlignment="Center"></Label>
+                </Grid>
+
+                <Grid Grid.Column="1" Grid.Row="1">
+                    <Label x:Name="lbl_temp_zone2" Content="00" Foreground="White" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                </Grid>
+                <Grid Grid.Column="1" Grid.Row="2">
+                    <Label x:Name="lbl_pressure_zone2" Content="00" Foreground="White" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                </Grid>
+                <Grid Grid.Column="1" Grid.Row="3">
+                    <Label x:Name="lbl_humidity_zone2" Content="00" Foreground="White" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</Page>

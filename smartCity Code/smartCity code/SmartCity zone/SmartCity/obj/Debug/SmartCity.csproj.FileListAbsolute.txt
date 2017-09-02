@@ -1,0 +1,317 @@
+D:\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+D:\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+D:\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+D:\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+D:\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+D:\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+D:\SmartCity\SmartCity\obj\Debug\App.g.cs
+D:\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+D:\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+D:\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+D:\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+D:\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+D:\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+D:\SmartCity\SmartCity\obj\Debug\Pages\LoginPage.baml
+D:\SmartCity\SmartCity\obj\Debug\Pages\LoginPage.g.cs
+D:\SmartCity\SmartCity\obj\Debug\Pages\Dashboard.baml
+D:\SmartCity\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+D:\SmartCity\SmartCity\obj\Debug\Pages\ZonePage.baml
+D:\SmartCity\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+D:\SmartCity\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\SmartCity\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\jay\Desktop\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\jay\Desktop\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\SmartCity\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\jay\Desktop\SmartCity\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\Dashboard.baml
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\LoginPage.baml
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\ZonePage.baml
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\LoginPageold.baml
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\LoginPageold.g.cs
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\LiveVisualization.baml
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\LiveVisualization.g.cs
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\StreetLight.baml
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\StreetLight.g.cs
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\DataVisualization.baml
+C:\Users\jay\Desktop\SmartCity\SmartCity\obj\Debug\Pages\DataVisualization.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\App.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+E:\anurag\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+E:\anurag\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe
+E:\anurag\SmartCity zone\SmartCity\bin\Debug\SmartCity.pdb
+E:\anurag\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+E:\anurag\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\MainWindow.baml
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.baml
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.baml
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.baml
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.baml
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.baml
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.baml
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.baml
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\MainWindow.g.cs
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.g.cs
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.g.cs
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.g.cs
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.g.cs
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.g.cs
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\App.g.cs
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.g.resources
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+E:\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.baml
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.baml
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.baml
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.baml
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.baml
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.baml
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.baml
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.g.cs
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.g.cs
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.g.cs
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.g.cs
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.g.cs
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\App.g.cs
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\jay\Desktop\anurag\SmartCity zone\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+H:\Project Submission\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+H:\Project Submission\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+H:\Project Submission\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\Population.baml
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.g.cs
+C:\Users\jay\Desktop\SmartCity zone\SmartCity\obj\Debug\Pages\Population.g.cs
+C:\Users\jay\Desktop\new backup\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\jay\Desktop\new backup\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\jay\Desktop\new backup\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+H:\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+H:\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+H:\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+G:\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+G:\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+G:\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+G:\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe
+G:\SmartCity zone\SmartCity\bin\Debug\SmartCity.pdb
+G:\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+G:\SmartCity zone\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+G:\SmartCity zone\SmartCity\obj\Debug\MainWindow.baml
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.baml
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.baml
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.baml
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.baml
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.baml
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.baml
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\Population.baml
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.baml
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.baml
+G:\SmartCity zone\SmartCity\obj\Debug\MainWindow.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\Population.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\App.g.cs
+G:\SmartCity zone\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+G:\SmartCity zone\SmartCity\obj\Debug\SmartCity.g.resources
+G:\SmartCity zone\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+G:\SmartCity zone\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\Population.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.baml
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\Population.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\App.g.cs
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\Adarsh\Desktop\new backup1\SmartCity zone\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\Population.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.baml
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\Population.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\App.g.cs
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\Adarsh\Desktop\new backup1_2\SmartCity zone\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\Adarsh\Desktop\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\Adarsh\Desktop\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\Adarsh\Desktop\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\jay\Desktop\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\jay\Desktop\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\Population.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.baml
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\Population.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\App.g.cs
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\jay\Desktop\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\Population.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.baml
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\CrimeRate.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\Dashboard.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\DataVisualization.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\LiveVisualization.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\LoginPageold.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\loginPage.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\Population.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\StreetLight.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\Pages\ZonePage.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\App.g.cs
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\jay\Desktop\sub 18-4\smartCity sub1\smartCity sub1\SmartCity zone\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache

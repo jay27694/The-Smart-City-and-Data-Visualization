@@ -1,0 +1,25 @@
+﻿<Page x:Class="SmartCity.Pages.Population"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+       xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      KeepAlive="True"
+      d:DesignHeight="500" d:DesignWidth="700"
+	Title="Population">
+
+    <Grid>
+        <m:Map x:Name="myMap"
+            Center="21.183843,72.808218" ZoomLevel="16"
+            CredentialsProvider="Av7tjDXQcLWVTdASoYHbGpaL7kTtAjjoAs0Or0FGcNmbQYLB-87f5lt_RvZ0JKeq" />
+        <Border Height="25" Background="#FF020202" Width="50" Opacity=".3" VerticalAlignment="Top" HorizontalAlignment="Right">
+            <ComboBox x:Name="comboboxyear" SelectionChanged="yearChanged">
+                <!--<ComboBoxItem Content="1991"/>-->
+                <!--<ComboBoxItem Content="2001"/>-->
+                <!--<ComboBoxItem Content="2011"/>-->
+            </ComboBox>
+        </Border>
+
+    </Grid>
+</Page>
